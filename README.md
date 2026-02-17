@@ -1,16 +1,17 @@
-## Hi there 👋
+# Erhan Altınköprü
 
-<!--
-**erhanaltinkopru/Erhanaltinkopru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Teknik Lider | Endüstriyel Otomasyon & Yazılım**
 
-Here are some ideas to get you started:
+## 🔧 Teknik Stack
+- C# .NET | S7.Net | Modbus TCP/RTU
+- PLC | SCADA | IoT | ESP32 | Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏭 Sektör Deneyimi
+- Darphane KMTS & İDİS Projeleri
+- Tekstil Otomasyonu
+- Beyaz Eşya Üretim Hatları
+
+## 📫 İletişim
+- Mail: erhan@erhanaltinkopru.com
+- LinkedIn: linkedin.com/in/erhanaltinkopru
+- Site: erhanaltinkopru.com
